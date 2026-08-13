@@ -2,19 +2,15 @@
 
 # 👋 Hi, I'm Mohammed
 
-### Computer Science Student | C++ | Data Structures | OOP | Database & SQL
+### Computer Science Student
 
 I'm a Computer Science student currently building my programming and software development skills.
 
-I'm interested in **Software Development, Web Development, Databases, and AI/ML**.
+I'm interested in **Software Development, Web Development,**.
 
 Currently learning and improving my skills step by step. 🚀
 
-<br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat&color=blue&label=PROFILE+VIEWS)
-
-</div>
 
 ---
 
@@ -25,9 +21,7 @@ Currently learning and improving my skills step by step. 🚀
 - 🧠 Studied **Object-Oriented Programming (OOP)**
 - 📚 Studied **Data Structures**
 - 🗄️ Currently learning **Database Systems & SQL**
-- 🐍 Planning to learn **Python**
 - 🌐 Interested in **Web Development**
-- 🤖 Interested in **Machine Learning & AI**
 - 🚀 Currently focused on building strong fundamentals and real projects
 
 ---
